@@ -40,7 +40,6 @@ mkdir -p $DIR
 log="$DIR/log"
 tf_logs="$DIR/tf_log"
 model_dir="$DIR/model"
-checkpoint_path="results/checkpoint_57000"
 
 #while [ True ]; do
 #    num=`ls ${model_dir}/check* | wc -l`
@@ -66,6 +65,13 @@ start_cleanup() {
     done
 }
 
+if [ ! -d Wave ];then
+	echo "Data downloading."
+    wget https://github-1324907443.cos.ap-shanghai.myqcloud.com/tacotron2/Wave.tar -O Wave.tar
+    tar xvf Wave.tar &> /dev/null
+	echo "Data downloaded."
+fi
+
 # 捕获中断信号
 trap 'stop_cleanup' INT TERM
 
@@ -78,20 +84,14 @@ stop_cleanup() {
 # 在子shell中启动清理并记录PID
 (start_cleanup) &
 cleanup_pid=$!
-
 echo "后台清理进程已启动，PID: $cleanup_pid"
 
-if [! -d Wave.tar ];then
-    wget https://github-1324907443.cos.ap-shanghai.myqcloud.com/tacotron2/Wave.tar
-    tar xvf Wave.tar
-fi
-
 #train
-train="learning_rate=5e-5"
-#tune
-tune="learning_rate=5e-6"
-python train.py  -l ${tf_logs} -o ${model_dir}  -c ${checkpoint_path} \
-    --hparams ${train} &> $log
+#checkpoint_path=""
+batch_size="batch_size=48" 
+lr="learning_rate=4e-5"
+python train.py  -l ${tf_logs} -o ${model_dir}  \
+    --hparams ${batch_size} --hparams ${lr}  &> $log
 
 # 等待清理进程
 wait $cleanup_pid
