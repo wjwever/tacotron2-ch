@@ -81,6 +81,11 @@ cleanup_pid=$!
 
 echo "后台清理进程已启动，PID: $cleanup_pid"
 
+if [! -d Wave.tar ];then
+    wget https://github-1324907443.cos.ap-shanghai.myqcloud.com/tacotron2/Wave.tar
+    tar xvf Wave.tar
+fi
+
 #train
 train="learning_rate=5e-5"
 #tune

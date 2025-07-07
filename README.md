@@ -4,11 +4,6 @@ Also i have provide an onnx inference scripts。
 
 [audio example](audio/audio1.wav)
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <audio controls style="width: 30%">
-    <source src="audio/audio1.wav" type="audio/wav">
-  </audio>
-</div>
 
 # training
 * Firstly setup a python3.8 envirionment, use conda for example. and install the requirements.
@@ -26,11 +21,6 @@ to 22.05khz by sox.
 ```python
     tensorboard --logdir result/{tf_logs_dir}
 ```
-<div style="display: flex; flex-direction:column; justify-content: center;">
-  <img src="pictures/train.png" alt="train" width="80%">
-  <img src="pictures/validation.png" alt="validation" width="80%">
-  <img src="pictures/alignments.png" alt="alignments" width="80%">
-</div>
 
 
 # jupyter inference
@@ -50,3 +40,8 @@ to 22.05khz by sox.
 
 # issue
 * The validation loss begin to increase after 60k steps, while the training loss still decreases, i think it's because overfitting, if you have any idea, please help me.
+
+<div style="display: flex; flex-direction:row; justify-content: center;">
+  <img src="pictures/train.png" alt="train" width="50%">
+  <img src="pictures/validation.png" alt="validation" width="50%">
+</div>

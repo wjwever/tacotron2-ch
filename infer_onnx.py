@@ -162,7 +162,10 @@ if __name__ == "__main__":
 
 
     # waveglow
-    waveglow_path = 'pretrain/waveglow_256channels_universal_v5.pt'
+    waveglow_path = 'waveglow_256channels_universal_v5.pt'
+    if os.path.exits(waveglow_path) == False:
+        print("please download wavglow checkpt: https://github-1324907443.cos.ap-shanghai.myqcloud.com/tacotron2/waveglow_256channels_universal_v5.pt")
+        exit(0)
     waveglow = torch.load(waveglow_path)['model']
     waveglow.cuda().eval()
     for k in waveglow.convinv:
