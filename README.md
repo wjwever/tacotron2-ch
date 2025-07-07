@@ -6,7 +6,6 @@ Tacotron2 is classical tts model. I have change some code from [Nvidia Tacotron2
 <div style="display: flex; justify-content: center; gap: 10px;">
   <audio controls style="width: 30%">
     <source src="audio/audio1.wav" type="audio/wav">
-    您的浏览器不支持音频元素。
   </audio>
 </div>
 
