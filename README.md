@@ -1,6 +1,7 @@
 # tacotron2-ch
 Tacotron2 is classical tts model. I have change some code from [Nvidia Tacotron2](https://github.com/NVIDIA/tacotron2) to  train  a chinese tts system.Actually the training begin to converge around 8k steps, and the final result is not bad Considering that there is no enough training data。And also i have provide an onnx inference scripts。
 
+[audio example](audio/audio1.wav)
 
 <div style="display: flex; justify-content: center; gap: 10px;">
   <audio controls style="width: 30%">
