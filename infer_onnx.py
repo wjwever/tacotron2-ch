@@ -127,6 +127,8 @@ class ONNXDecoder:
 
 if __name__ == "__main__":
     text = "nu2 er3 bie2 er3 de2 ye1 wa2 qing3 zhou1 yong3 kang1 zhuan3 da2 dui4 wu2 bang1 guo2 wei3 yuan2 zhang3 de5 qin1 qie4 wen4 hou4."
+    text = "huan1 sheng1 xiao4 yu3 sa2 man3 cun1 zhuang1."
+    text = "quan3 bi4 xu1 shuan1 yang3 huo4 juan4 yang3."
     sequence = np.array(text_to_sequence(text, ['basic_cleaners']))[None, :]
     if len(sequence) > 500:
         print("sequence length is larger than 500, please split it first")
