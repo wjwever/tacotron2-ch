@@ -1,5 +1,6 @@
 # tacotron2-ch
-Tacotron2 is classical tts model. I have change some code from [Nvidia Tacotron2](https://github.com/NVIDIA/tacotron2) to  train  a chinese tts system.Actually the training begin to converge around 8k steps, and the final result is not bad Considering that there is no enough training data。And also i have provide an onnx inference scripts。
+Tacotron2 is classical tts model. I have change some code from [Nvidia Tacotron2](https://github.com/NVIDIA/tacotron2) to  train  a chinese tts system.Actually the training begin to converge around 8k steps, and the final result is not bad Considering that there is no enough training data。But the final result have not been  state of art.
+Also i have provide an onnx inference scripts。
 
 [audio example](audio/audio1.wav)
 
@@ -25,15 +26,16 @@ to 22.05khz by sox.
 ```python
     tensorboard --logdir result/{tf_logs_dir}
 ```
-<div style="display: flex; flex-direction:row; justify-content: center;">
-  <img src="pictures/train.png" alt="train" width="33%">
-  <img src="pictures/validation.png" alt="validation" width="33%">
-  <img src="pictures/alignments.png" alt="alignments" width="33%">
+<div style="display: flex; flex-direction:column; justify-content: center;">
+  <img src="pictures/train.png" alt="train" width="80%">
+  <img src="pictures/validation.png" alt="validation" width="80%">
+  <img src="pictures/alignments.png" alt="alignments" width="80%">
 </div>
 
 
 # jupyter inference
-    Refer to inference.ipynb for detail.
+  Refer to inference.ipynb for detail.
+
 # onnx inference 
 * export the encoder and decoder to onnx format, the result will be in the root dir for this project.
 ``` python
