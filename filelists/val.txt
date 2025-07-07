@@ -1,0 +1,64 @@
+Wave/000001.wav|ka2 er2 pu3 pei2 wai4 sun1 wan2 hua2 ti1.
+Wave/000002.wav|jia2 yu3 cun1 yan2 bie2 zai4 yong1 bao4 wo3.
+Wave/000003.wav|bao2 ma3 pei4 gua4 bo3 luo2 an1 diao1 chan2 yuan4 zhen3 dong3 weng1 ta4.
+Wave/000004.wav|deng4 xiao3 ping2 yu3 sa4 qie4 er3 hui4 wu4.
+Wave/000005.wav|lao2 hu3 you4 zai3 yu2 chong3 wu4 quan3 wan2 shua3.
+Wave/000006.wav|shen1 chang2 yue1 wu2 chi3 er4 cun4 wu3 fen1 huo4 yi3 shang4.
+Wave/000007.wav|zhao4 di2 yue1 cao2 yun2 teng2 qu4 gui3 wu1.
+Wave/000008.wav|zhan2 pin3 sui1 you3 zhan3 yuan2 que4 tui2.
+Wave/000009.wav|yi2 san3 ju1 er2 tong2 he2 you4 tuo1 er2 tong2 wei2 zhu3.
+Wave/000010.wav|ke1 te4 ni1 shen1 chuan1 bao4 wen2 da4 yi1.
+Wave/000011.wav|yin3 cai2 yao4 shai1 yong4 cai2 ye3 yao4 shai1.
+Wave/000012.wav|nan2 yue4 kun1 lun2 shan1 yu3 xi1 zang4 jie1 rang3.
+Wave/000013.wav|weng1 kai3 lan2 fang2 ru3 xian4 ai2 xuan1 chuan2 zhao4.
+Wave/000014.wav|wo3 hui2 you4 heng1 heng5 zuo3 heng1 heng5.
+Wave/000015.wav|wu2 yun2 bao2 nai3 nai5 tiao1 xuan3 pi2 pa2.
+Wave/000016.wav|ci3 wai4 guang2 ben3 ye3 jiang1 you2 shao4 zhuang4 pai4 zhang2 guan3.
+Wave/000017.wav|you4 man2 wu3 niao2 niao3 zuo3 qiong2 ge1 xi1 xi1.
+Wave/000018.wav|yan3 kuang4 kuan1 kuo4 er2 di1 ai3 bi2 duan3 er2 kuan1.
+Wave/000019.wav|xia2 pu3 xian4 ya2 cheng2 zhen4 wu1 qi2 wa3 yao2 cun1 shui3 wei4 meng2 zhang3.
+Wave/000020.wav|huo4 si1 yan4 lu4 bei4 xiu4 ru3 gou1 xing4 gan3 re2 huo3.
+Wave/000021.wav|ye3 ke2 yi3 gei3 ben2 wei3 yuan2 fan3 ying4 you5.
+Wave/000022.wav|yao2 lan2 pai2 gai4 wei2 jian4 ying1 er2 pei4 fang1 nai2 fen3.
+Wave/000023.wav|e4 yu4 lu2 wan3 su1 ju2 di4 da4 bao4 yu3.
+Wave/000024.wav|yi3 xia4 wei2 xue1 man2 zi5 guan1 dian3 zhai1 yao4.
+Wave/000025.wav|chen2 yu2 luo4 yan4 bi4 yue4 xiu1 hua1.
+Wave/000026.wav|er2 xu3 guan4 ying1 yi4 jiang1 yu2 ming2 ri4 chu1 bin4.
+Wave/000027.wav|a1 jiao1 yu2 bai3 wei4 gui2 fen3 si1 kuang2 huan1.
+Wave/000028.wav|fang2 wu1 mai3 mai4 qi4 yue1 he2 shou1 tiao2.
+Wave/000029.wav|liu4 wanr1 dou1 dei3 duo2 yuan2 dian3.
+Wave/000030.wav|hei1 xiong2 chuang3 jin4 wang2 ming2 hui1 jia1 hou4 yuan4 mi4 shi2.
+Wave/000031.wav|wu2 ya4 jun1 yu3 zhang4 fu5 cai4 kui2.
+Wave/000032.wav|ya4 xiao1 suan1 yan2 wei4 wei1 xian2 yi4 rong2 yu2 shui3.
+Wave/000033.wav|yuan4 qiang2 bei4 shi2 mian2 wa3 zhe1 yan3 shang4 le5.
+Wave/000034.wav|cheng2 yin1 tiao1 xuan2 wo2 yan3 zhao4 yu4 min3.
+Wave/000035.wav|yin2 chi1 mao3 liang2 wu2 yi4 yu2 yin3 zhen4 zhi2 ke3.
+Wave/000036.wav|lv2 zi5 yue4 pao3 yue4 kuai4 yue4 pao3 yue4 feng1 kuang2.
+Wave/000037.wav|ye2 yu2 de5 sun1 yao2 cha4 dian3 bei4 guo4 qir4.
+Wave/000038.wav|guang1 gun4 jie2 ying2 xiao1 ying4 yun4 er2 sheng1.
+Wave/000039.wav|gao1 ya1 tie2 ta3 xia4 de5 di1 ai3 peng2 wu1.
+Wave/000040.wav|dian4 ying2 hai3 bao4 pin2 min2 ku1 bai3 wan4 fu4 weng1.
+Wave/000041.wav|diao1 wei2 lie4 yi3 bei4 ling4 an4 chu2 li3.
+Wave/000042.wav|yun2 wu4 you3 shi2 wan3 ru2 yu4 dai4 ping2 wo4 feng1 luan2 shan1 jian1 you3 shi2 chui1 yan1 niao3 rao4 bo2 wu4 qing1 xuan2.
+Wave/000043.wav|zui3 ba5 zhou1 wei2 lve4 wei1 zhong2 qi3.
+Wave/000044.wav|huan1 sheng1 xiao4 yu3 sa2 man3 cun1 zhuang1.
+Wave/000045.wav|sha1 chang3 jing4 yun3 ming4 zhuang4 zhi4 ye3 wu2 wei2.
+Wave/000046.wav|you2 zha2 dou4 fu5 pen1 pen1 xiang1 san3 zi5 ma2 hua1 beng1 beng1 cui4 zi3 mei4 tuan2 zi5 shu3 er4 jiang1.
+Wave/000047.wav|ben3 shan1 ye3 zhen1 tai4 kou1 menr2 le5.
+Wave/000048.wav|lin4 dong1 ying1 de5 zhu4 yuan4 bing4 an4.
+Wave/000049.wav|quan3 bi4 xu1 shuan1 yang3 huo4 juan4 yang3.
+Wave/000050.wav|he4 li4 he2 yin4 du4 da4 heng1 a1 lang2 nai4 er3 yi3 jing1 fen1 ju1 shu4 yue4.
+Wave/000051.wav|nan4 xiong1 nan4 di4 yao4 hao2 hao3 qie1 cuo1 qie1 cuo1.
+Wave/000052.wav|xiao3 jun1 da4 tui3 nei4 ce4 yu1 qing1.
+Wave/000053.wav|yi3 ji2 ci2 xiong2 kong2 zi2 niao3 fu4 yuan2 tu2.
+Wave/000054.wav|yu3 nv2 yan3 yuan2 pai1 wen3 xi4 chen2 xiao3 chun1 bu2 pa4 ying4 cai3 er2 chi1 cu4.
+Wave/000055.wav|fang3 zhen1 zhi1 cu1 hua1 ni2 deng3 yin4 hua1 mian4 liao4 de5 qiao3 miao4 yun4 yong4.
+Wave/000056.wav|yu3 yue1 se4 fu1 tie1 mian4 lou3 bao4.
+Wave/000057.wav|nu2 er3 bie2 er3 de2 ye1 wa2 qing3 zhou1 yong3 kang1 zhuan3 da2 dui4 wu2 bang1 guo2 wei3 yuan2 zhang3 de5 qin1 qie4 wen4 hou4.
+Wave/000058.wav|jin1 you3 zhuang1 man2 er2 xia4 zhou1 juan1 shen4.
+Wave/000059.wav|wo2 wo3 wo2 wo3 wo2 wo3 he2 pang4 zi5 yi4 qi3.
+Wave/000060.wav|sao3 sao5 gei3 zuo4 de5 you2 mian4 wo1 wo5 he2 yang2 rou4 dun4 shan1 yao4.
+Wave/000061.wav|man4 sa4 ni2 yue1 gang2 kou3 bei4 guan1 bi4.
+Wave/000062.wav|liao4 bi4 er2 ma2 ya3 shu1 he2 lao3 gong1 shai4 en1 ai4.
+Wave/000063.wav|wa4 zi5 tan1 xiao3 lao2 ban3 chen2 yong3 quan2.
+Wave/000064.wav|he2 ji4 chou2 zi1 yi1 dian3 yi1 er4 jiu3 yi1 wu2 wu3 yi4 yuan2.
