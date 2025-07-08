@@ -87,11 +87,8 @@ cleanup_pid=$!
 echo "后台清理进程已启动，PID: $cleanup_pid"
 
 #train
-#checkpoint_path=""
-batch_size="batch_size=48" 
-lr="learning_rate=4e-5"
 python train.py  -l ${tf_logs} -o ${model_dir}  \
-    --hparams ${batch_size} --hparams ${lr}  &> $log
+				 --hparams "batch_size=64,learning_rate=5e-4" &> $log
 
 # 等待清理进程
 wait $cleanup_pid
